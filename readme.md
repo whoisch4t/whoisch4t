@@ -56,15 +56,6 @@
   </tr>
 </table>
 
-<h2 align="center">Next up</h2>
-
-<table align="center">
-  <tr><td><code>nest-api-starter</code></td><td>Production-ready NestJS API with JWT rotation, rate limiting, tests and CI</td></tr>
-  <tr><td><code>stream-worker</code></td><td>Go job queue on Redis Streams with retry, dead-letter handling and metrics</td></tr>
-  <tr><td><code>otp-service</code></td><td>FastAPI service with hashed codes, brute-force protection and swappable SMS providers</td></tr>
-  <tr><td><code>batuhansarisoy.dev</code></td><td>Portfolio with case studies, in English and Turkish</td></tr>
-</table>
-
 <h2 align="center">Contact</h2>
 
 <p align="center">
