@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="32" viewBox="0 0 840 32" role="img" aria-label="Pac-Man eating a row of dots">
+  <style>
+    .pac { transform: translate(420px, 16px); animation: run 7s linear infinite; }
+    .eat { transform: translateX(420px); animation: eat 7s linear infinite; }
+    .jaw-top { transform-box: fill-box; transform-origin: 50% 100%; animation: top .28s ease-in-out infinite alternate; }
+    .jaw-bot { transform-box: fill-box; transform-origin: 50% 0%; animation: bot .28s ease-in-out infinite alternate; }
+    @keyframes run { from { transform: translate(-16px, 16px); } to { transform: translate(856px, 16px); } }
+    @keyframes eat { from { transform: translateX(-16px); } to { transform: translateX(856px); } }
+    @keyframes top { from { transform: rotate(-34deg); } to { transform: rotate(-2deg); } }
+    @keyframes bot { from { transform: rotate(34deg); } to { transform: rotate(2deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .pac, .eat, .jaw-top, .jaw-bot { animation: none; }
+      .jaw-top { transform: rotate(-30deg); }
+      .jaw-bot { transform: rotate(30deg); }
+    }
+  </style>
+  <defs>
+    <clipPath id="ahead"><rect class="eat" x="0" y="0" width="900" height="32"/></clipPath>
+  </defs>
+  <g clip-path="url(#ahead)" fill="#8b949e">
+    <circle cx="24" cy="16" r="2.5"/><circle cx="56" cy="16" r="2.5"/><circle cx="88" cy="16" r="2.5"/><circle cx="120" cy="16" r="2.5"/>
+    <circle cx="152" cy="16" r="2.5"/><circle cx="184" cy="16" r="2.5"/><circle cx="216" cy="16" r="2.5"/><circle cx="248" cy="16" r="2.5"/>
+    <circle cx="280" cy="16" r="2.5"/><circle cx="312" cy="16" r="2.5"/><circle cx="344" cy="16" r="2.5"/><circle cx="376" cy="16" r="2.5"/>
+    <circle cx="408" cy="16" r="5"/>
+    <circle cx="440" cy="16" r="2.5"/><circle cx="472" cy="16" r="2.5"/><circle cx="504" cy="16" r="2.5"/><circle cx="536" cy="16" r="2.5"/>
+    <circle cx="568" cy="16" r="2.5"/><circle cx="600" cy="16" r="2.5"/><circle cx="632" cy="16" r="2.5"/><circle cx="664" cy="16" r="2.5"/>
+    <circle cx="696" cy="16" r="2.5"/><circle cx="728" cy="16" r="2.5"/><circle cx="760" cy="16" r="2.5"/><circle cx="792" cy="16" r="2.5"/>
+    <circle cx="824" cy="16" r="2.5"/>
+  </g>
+  <g class="pac" fill="#ffc83d" stroke="#bf8700" stroke-width="1">
+    <path class="jaw-top" d="M-11 0A11 11 0 0 1 11 0Z"/>
+    <path class="jaw-bot" d="M-11 0A11 11 0 0 0 11 0Z"/>
+  </g>
+</svg>

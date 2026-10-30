@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="HackerRank">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <path d="M128 48l69.3 40v80L128 208l-69.3-40V88z" fill="#2EC866"/>
+  <path d="M98 92h16v28h28V92h16v72h-16v-28h-28v28H98z" fill="#fff"/>
+</svg>
