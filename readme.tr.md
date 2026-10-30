@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bleemapp.com"><b>BLEEM LTD</b></a>'de Lead Developer ve UI/UX Designer, Kuzey Kıbrıs'ta yaşıyorum.<br />
+  <a href="https://bleemapp.com"><b>BLEEM LTD</b></a>'de Lead Developer ve UI/UX Designer, Türkiye'de yaşıyorum.<br />
   Web ürünlerini uçtan uca geliştiriyorum: arayüz, API, veritabanı ve yayına alma.<br />
   <sub>Tam zamanlı pozisyonlara, freelance projelere ve uzaktan çalışmaya açığım.</sub>
 </p>
@@ -40,7 +40,7 @@
     </td>
     <td valign="top">
       <h3><a href="https://bleemapp.com">Bleem</a></h3>
-      <b>Lead Frontend Developer · UI/UX Designer</b><br /><br />
+      <b>Lead Developer · UI/UX Designer</b><br /><br />
       Kuzey Kıbrıs için bir ulaşım platformu: yolcuları ve sürücüleri buluşturan iki taraflı bir pazar yeri. Canlı sürücü takibi, sürücüler için iş akışı araçları ve VIP transferler için bir arka uç içeriyor. Frontend geliştirmeyi yönetiyor, ürünün arayüzünü ve kullanıcı deneyimini tasarlıyorum.<br /><br />
       React Native (Expo) ile yolcu ve sürücü uygulamaları, Socket.IO ile gerçek zamanlı sunucu, PostgreSQL ve Redis üzerinde Express API, yönetim ve iş ortağı panelleri.<br /><br />
       <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,express,postgres,redis,docker" height="32" alt="TypeScript, React, React Native, Next.js, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, Redis, Docker" /><br /><br />

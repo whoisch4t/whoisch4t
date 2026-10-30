@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Lead Developer and UI/UX Designer at <a href="https://bleemapp.com"><b>BLEEM LTD</b></a>, based in Northern Cyprus.<br />
+  Lead Developer and UI/UX Designer at <a href="https://bleemapp.com"><b>BLEEM LTD</b></a>, based in Turkey.<br />
   I build web products end to end: interface, API, database and deployment.<br />
   <sub>Open to full-time roles, freelance projects and remote work.</sub>
 </p>
@@ -40,7 +40,7 @@
     </td>
     <td valign="top">
       <h3><a href="https://bleemapp.com">Bleem</a></h3>
-      <b>Lead Frontend Developer · UI/UX Designer</b><br /><br />
+      <b>Lead Developer · UI/UX Designer</b><br /><br />
       Mobility platform for Northern Cyprus: a two-sided marketplace for passengers and drivers, with live driver tracking, driver workflow tools and a back end for VIP transfers. I lead front-end development and design the product's interface and user experience.<br /><br />
       Passenger and driver apps in React Native (Expo), a real-time Socket.IO server, an Express API on PostgreSQL and Redis, and admin and partner dashboards.<br /><br />
       <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,express,postgres,redis,docker" height="32" alt="TypeScript, React, React Native, Next.js, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, Redis, Docker" /><br /><br />
