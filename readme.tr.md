@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://bleemapp.com"><b>BLEEM LTD</b></a>'de Lead Developer ve UI/UX Designer, Türkiye'de yaşıyorum.<br />
-  Web ürünlerini uçtan uca geliştiriyorum: arayüz, API, veritabanı ve yayına alma.<br />
-  <sub>Tam zamanlı pozisyonlara, freelance projelere ve uzaktan çalışmaya açığım.</sub>
+  <a href="https://batuhansarisoy.dev"><img src="icons/portfolio.svg" width="40" alt="Portfolio" title="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/whoischat/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
+  <a href="mailto:batuhansrsy0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" title="batuhansrsy0@gmail.com" /></a>
 </p>
 
 <p align="center">
