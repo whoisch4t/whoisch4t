@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="https://batuhansarisoy.dev"><img src="icons/portfolio.svg" width="40" alt="Portfolio" title="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK"><img src="icons/hackerrank.svg" width="40" alt="HackerRank" title="HackerRank" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/whoischat/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
   <a href="mailto:batuhansrsy0@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" title="batuhansrsy0@gmail.com" /></a>
 </p>
 
